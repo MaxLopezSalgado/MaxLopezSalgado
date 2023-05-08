@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">A passionate data enthusiast from Italy/Argentina</h3>
+<p>After completing an exchange program in Spain and finishing my graduate thesis, I embarked on a journey to Germany to learn German and pursue a career in tech. Coming from an economics background, I realized that analyzing complex problems with data and visualizing them could bring my knowledge and academic experience up-to-date in a dynamic city like Berlin.</p>
+<p>Through my work, I am committed to leveraging data to drive business decisions and finding creative solutions to challenging problems. I am constantly seeking opportunities to expand my skill set and stay up-to-date with the latest technologies and trends in the industry.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxlopezsalgado&label=Profile%20views&color=0e75b6&style=flat" alt="maxlopezsalgado" /> </p>
 
